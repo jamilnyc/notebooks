@@ -14,10 +14,14 @@ Install:
 
 ```bash
 # Clone the repository
+git clone https://github.com/jamilnyc/notebooks.git
 
 # Enter the directory
+cd notebooks/
 
 # Start Jupyter Notebook Server
+jupyter notebook
 ```
 
-Navigate to the address above in your browser and open up one of the `*.ipynb` files. The `intro.ipynb` notebook is a good place to start.
+Navigate to the address printed by the last command (if it didn't automatically open) and open up one of the `*.ipynb` files. 
+The `intro.ipynb` notebook is a good place to start.
