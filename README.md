@@ -25,3 +25,10 @@ jupyter notebook
 
 Navigate to the address printed by the last command (if it didn't automatically open) and open up one of the `*.ipynb` files. 
 The `intro.ipynb` notebook is a good place to start.
+
+## Tasks
+
+- [ ] Make the `intro.ipynb` notebook a bit more generic with more examples of things you can do in a notebook
+- [ ] Add links to installation guides for software requirements
+- [ ] Create a `numpy` notebook focusing on the `array` type
+- [ ] Create a notebook with `seaborn`
