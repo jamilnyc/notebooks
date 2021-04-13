@@ -5,10 +5,10 @@ Introductory Jupyter Notebook examples using the `numpy` and `pandas` libraries.
 ## Requirements
 
 Install:
-* Python 3
-* NumPy
-* Pandas
-* Jupyter Notebooks
+* [Python 3](https://www.python.org/downloads/)
+* [NumPy](https://numpy.org/install/)
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+* [Jupyter Notebooks](https://jupyter.org/install)
 
 ## Usage
 
@@ -29,6 +29,6 @@ The `intro.ipynb` notebook is a good place to start.
 ## Tasks
 
 - [ ] Make the `intro.ipynb` notebook a bit more generic with more examples of things you can do in a notebook
-- [ ] Add links to installation guides for software requirements
+- [X] Add links to installation guides for software requirements
 - [ ] Create a `numpy` notebook focusing on the `array` type
 - [ ] Create a notebook with `seaborn`
