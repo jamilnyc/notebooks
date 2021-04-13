@@ -9,6 +9,8 @@ Install:
 * [NumPy](https://numpy.org/install/)
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 * [Jupyter Notebooks](https://jupyter.org/install)
+* [Matplotlib](https://matplotlib.org/stable/users/installing.html)
+* [Seaborn](https://seaborn.pydata.org/installing.html)
 
 ## Usage
 
