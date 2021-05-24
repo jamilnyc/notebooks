@@ -11,6 +11,7 @@ Install:
 * [Jupyter Notebooks](https://jupyter.org/install)
 * [Matplotlib](https://matplotlib.org/stable/users/installing.html)
 * [Seaborn](https://seaborn.pydata.org/installing.html)
+* [Statsmodels](https://www.statsmodels.org/stable/install.html)
 
 ## Usage
 
